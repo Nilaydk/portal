@@ -28,7 +28,7 @@ export default function Home() {
             </div>
 
             <div className={styles.content}>
-                Hi. I'm a pretty chill guy.
+                Hi. I&apos;m a pretty chill guy.
             </div>
           </div>
       </>
