@@ -23,3 +23,22 @@ body {
   color: white;
   background: black;
 }
+
+
+/*noinspection CssUnknownTarget*/
+@font-face {
+  font-family: 'gazpacho-black';
+  src: url(/fonts/Gazpacho-Black.ttf);
+}
+
+/*noinspection CssUnknownTarget*/
+@font-face {
+  font-family: 'gazpacho-medium';
+  src: url(/fonts/Gazpacho-Medium.ttf);
+}
+
+/*noinspection CssUnknownTarget*/
+@font-face {
+  font-family: 'gazpacho';
+  src: url(/fonts/Gazpacho-Regular.ttf);
+}

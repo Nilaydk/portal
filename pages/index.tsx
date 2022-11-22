@@ -20,6 +20,12 @@ export default function Home() {
                     </div>
 
                     <div className={styles.headerLink}>
+                        <a href="mailto:mail@nilaykapadia.com">
+                            <NextImage src="/email.png" alt="Mail" fill={true}/>
+                        </a>
+                    </div>
+
+                    <div className={styles.headerLink}>
                         <a href="https://twitter.com/NilayDk">
                             <NextImage src="/twitter.png" alt="Twitter" fill={true}/>
                         </a>

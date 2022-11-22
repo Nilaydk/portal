@@ -12,6 +12,7 @@
 }
 
 .header > .title {
+    font-family: 'gazpacho-black', sans-serif;
     font-weight: bold;
     font-size: 32pt;
 }
@@ -29,6 +30,8 @@
 }
 
 .content {
+    font-size: 18pt;
+    font-family: 'gazpacho', sans-serif;
     padding: 64px 32px 16px;
 }
 
@@ -51,6 +54,7 @@
     }
 
     .content {
+        font-size: 14pt;
         padding: 54px 16px 16px;
     }
 }
